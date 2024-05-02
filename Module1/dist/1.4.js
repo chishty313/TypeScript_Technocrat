@@ -15,4 +15,7 @@ d = 123;
 // Array
 let friends = ["rachel", "moniaca"];
 friends.push(7);
-console.log(friends);
+// Tuple --> array --> order --> type of value
+let coordinates = [1, 5];
+let ageName = [50, "Mr. X"];
+ageName[0] = "Mr. Y";
