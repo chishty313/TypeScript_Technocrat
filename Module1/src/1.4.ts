@@ -1,4 +1,4 @@
-// Basic Data Types
+{// Basic Data Types
 
 // String
 
@@ -28,7 +28,7 @@ d = 123;
 
 let friends: string[] = ["rachel", "moniaca"];
 
-friends.push(7);
+// friends.push(7);
 
 // Tuple --> array --> order --> type of value
 
@@ -36,4 +36,5 @@ let coordinates: [number, number] = [1, 5];
 
 let ageName: [number, string] = [50, "Mr. X"];
 
-ageName[0] = "Mr. Y";
+// ageName[0] = "Mr. Y";
+}
